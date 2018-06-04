@@ -8,7 +8,7 @@ If you would like to check all the steps what we did in demo you can follow
 - [2- Build models](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1)
 - [3- Deploy models](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1)
 
-Especially for model deployment part you can follow [publish Jupyter Notebook](![cover](publish.ipynb)) section to move step by step, After deployment into Azure Model Management tool, you can check your service with below python script in Jupyter notebook.
+Especially for model deployment part you can follow [publish Jupyter Notebook](publish.ipynb) section to move step by step, After deployment into Azure Model Management tool, you can check your service with below python script in Jupyter notebook.
 
 ![cover](./docs/publish1.png)
 
