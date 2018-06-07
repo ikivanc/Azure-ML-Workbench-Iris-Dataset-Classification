@@ -7,7 +7,7 @@ If you would like to check all the steps what we did in demo you can follow
 - [1- Preparing the data](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1)
 - [2- Build models](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1)
 - [3- Deploy models](https://docs.microsoft.com/en-us/azure/machine-learning/desktop-workbench/tutorial-classifying-iris-part-1) 
-- [4- Publish Model via Jupyter Notebook](![cover](publish.ipynb))
+- [4- Publish Model via Jupyter Notebook](publish.ipynb)
 
 
 ## Model Deployment to Azure & Test
